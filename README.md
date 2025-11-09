@@ -13,6 +13,26 @@
 - Tailwind CSS
 - Loveable dev
 
+## File Structure
+
+hacknation-ai-2025-RS/
+ - public/ # Static assets for the app
+ - src/ # Main source code (React components, pages, styles, etc.)
+ - .gitignore # Git ignore rules
+ - README.md # Project documentation
+ - bun.lockb # Bun package lock
+ - components.json # Component configuration
+ - eslint.config.js # ESLint configuration
+ - index.html # Entry HTML file
+ - package-lock.json # npm package lock
+ - package.json # npm dependencies and scripts
+ - postcss.config.js # PostCSS configuration
+ - tailwind.config.ts # Tailwind CSS configuration
+ - tsconfig.app.json # TypeScript configuration for the app
+ - tsconfig.json # Base TypeScript configuration
+ - tsconfig.node.json # TypeScript config for Node
+ - vite.config.ts # Vite configuration
+
 ## Setup on Local Machine
 
 ```sh
