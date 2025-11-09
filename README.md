@@ -1,8 +1,9 @@
 # Welcome to VANI: Your AI Research Companion
 
-## Team Members:
-- Ritika Kumar (https://www.linkedin.com/in/ritika-kumar-98a393191/?skipRedirect=true)
-- Suchita Sharma (www.linkedin.com/in/suchitasharma99)
+## Team Members
+
+- Ritika Kumar – [LinkedIn](https://www.linkedin.com/in/ritika-kumar-98a393191/?skipRedirect=true)  
+- Suchita Sharma – [LinkedIn](https://www.linkedin.com/in/suchitasharma99)
 
 ## Technologies used:
 - Vite
@@ -27,4 +28,8 @@ npm i
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
+
+## VANI GitHub Repository
+- https://github.com/ritikakumar0204/hack-nation-ai-2025-RS.git
+- https://github.com/Suchita999/hacknation-ai-2025-RS.git
 
