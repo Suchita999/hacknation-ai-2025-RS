@@ -82,7 +82,7 @@ const AboutVani = () => {
               Deep Research
             </Button>
             <Button 
-              onClick={() => navigate("/thesis-defense")} 
+              onClick={() => navigate("/recording")} 
               size="lg"
               className="bg-teal-500 hover:bg-teal-600 text-white px-8 py-6 text-lg shadow-soft hover:shadow-medium transition-all"
             >

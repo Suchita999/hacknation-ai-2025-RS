@@ -56,7 +56,7 @@ const Features = () => {
       description: "Vani helps you prepare for your thesis defense by anticipating questions, strengthening arguments, and identifying weak points. Practice your responses and gain confidence with AI-powered guidance, so you're fully ready for the big day.",
       hasButton: true,
       buttonText: "Practice with Vani",
-      route: "/thesis-defense"
+      route: "/reording"
     }
   ];
 
