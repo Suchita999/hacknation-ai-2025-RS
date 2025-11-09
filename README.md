@@ -13,7 +13,7 @@
 - Tailwind CSS
 - Loveable dev
 
-## Follow these steps:
+## Setup on Local Machine
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
@@ -28,6 +28,8 @@ npm i
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
+## Local Host (CLI)
+```Local:   http://localhost:8080/```
 
 ## VANI GitHub Repository
 - https://github.com/ritikakumar0204/hack-nation-ai-2025-RS.git
